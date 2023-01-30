@@ -22,7 +22,6 @@ The main processing is on `serverSocket.py` and `dataBase.py`.
 ## Demo
 
 I used `PyQT5` to develop UI and made it a classic macOS UI.
-![login server](screenshots/Screenshot%202023-01d-30%20093815.png)
-![login client](screenshots/Screenshot%202023-01-30%200913815.png)
+![connect](screenshots/Screenshot%202023-01-30%20093815.png)
 ![login successfully](screenshots/Screenshot%202023-01-30%20063346.png)
 ![search result](screenshots/Screenshot%202023-01-30%20093312.png)
