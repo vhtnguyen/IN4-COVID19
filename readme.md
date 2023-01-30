@@ -7,7 +7,7 @@ The server fetches data from [this API](https://api.apify.com/v2/key-value-store
 
 ## For Ú-er
 
-I attached my report so you guys can read the report for more details. I received 8.6 for this app. I think the main reason are I didn't use any database for this app, the messages struct was not good too, and spent too much time on the UI which was not important in this project.
+I attached my report so you guys can read the report for more details. I received 8.6 for this app. I think they were some weak points in my project. I didn't use any database for this app, the messages struct was not good too, and spent too much time on the UI which was not important in this project. Learn from my mistakes.
 
 ## Usage
 
